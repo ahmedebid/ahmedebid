@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmed Ebid.
 - 👀 I’m interested in front-end development.
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 🌱 I’m currently learning HTML, CSS, JavaScript and React.
 - 📫 You can reach me on Twitter [@ebid33](https://twitter.com/ebid33) or visit my personal website: https://www.ahmedebid.com
 
 <!---

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ahmed Ebid.
-- 👀 I’m a front-end developer.
+- 👀 I’m a front-end engineer.
 - 🌱 I’m continuously learning about HTML, CSS, JavaScript and React.
 - 📫 You can reach me on Twitter [@ebid33](https://twitter.com/ebid33)
 

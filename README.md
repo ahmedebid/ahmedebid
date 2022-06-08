@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ahmed Ebid.
-- 👀 I’m interested in front-end development.
-- 🌱 I’m currently learning HTML, CSS, JavaScript and React.
-- 📫 You can reach me on Twitter [@ebid33](https://twitter.com/ebid33) or visit my personal website: https://www.ahmedebid.com
+- 👀 I’m a front-end developer.
+- 🌱 I’m continuously learning about HTML, CSS, JavaScript and React.
+- 📫 You can reach me on Twitter [@ebid33](https://twitter.com/ebid33)
 
 <!---
 ahmedebid/ahmedebid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

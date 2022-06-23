@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Ahmed Ebid.
-- 👀 I’m a front-end engineer.
-- 🌱 I’m continuously developing my CSS, JavaScript and React skills.
+- 👋 Hi, I'm Ahmed Ebid.
+- 👀 I'm a front-end engineer.
+- 🌱 I'm continuously developing my CSS, JavaScript and React skills.
 - 📫 You can reach me on Twitter [@ebid33](https://twitter.com/ebid33)
 
 <!---
